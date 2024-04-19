@@ -1,62 +1,52 @@
-# API Authentication System - Pricing
+# API Authentication System - Pricing Documentation
 
-## Overview
+Thank you for your interest in the API Authentication System. Below are the pricing details and subscription plans available for the API Authentication System.
 
-The API Authentication System offers flexible pricing and subscription plans to meet the diverse needs of our customers. Whether you're a small startup or a large enterprise, we have a plan that fits your requirements and budget.
-
-## Pricing Plans
+## Subscription Plans
 
 ### Basic Plan
 
-- **Price**: Free
+- **Price**: $50/month or $500/year (10% discount)
 - **Features**:
-  - Authentication
-  - Token-based authentication
-  - Basic support
-- **Usage Limits**:
-  - Requests per month: 10,000
-  - Rate limiting: Not available
-- **Ideal For**: Small projects, personal use
+  - User Registration
+  - User Authentication
+  - Token-Based Authentication
+  - User Profile Management
 
 ### Standard Plan
 
-- **Price**: $99 per month
+- **Price**: $100/month or $1000/year (10% discount)
 - **Features**:
-  - Authentication
-  - Token-based authentication
-  - User management
-  - Enhanced support
-- **Usage Limits**:
-  - Requests per month: 100,000
-  - Rate limiting: Available
-- **Ideal For**: Small to medium-sized businesses
+  - All Basic Plan features
+  - Token Revocation
+  - Customizable Authentication Policies
+  - Rate Limiting
 
 ### Premium Plan
 
-- **Price**: $299 per month
+- **Price**: $200/month or $2000/year (10% discount)
 - **Features**:
-  - Authentication
-  - Token-based authentication
-  - User management
-  - Role-based access control
-  - Customizable branding
-  - Priority support
-- **Usage Limits**:
-  - Requests per month: 1,000,000
-  - Rate limiting: Available
-- **Ideal For**: Large enterprises, high-traffic applications
+  - All Standard Plan features
+  - Single Sign-On (SSO) Integration
+  - Multi-factor Authentication (MFA)
+  - Advanced Security Analytics
 
-## Subscription Details
+## Billing
 
-- All plans are billed monthly.
-- You can upgrade, downgrade, or cancel your subscription at any time.
-- Usage limits are reset at the beginning of each billing cycle.
-- Additional usage beyond the allocated limits will be charged according to the overage rates specified in each plan.
+- **Monthly Billing**: Subscriptions billed monthly with recurring payments.
+- **Annual Billing**: Subscriptions billed annually with a 10% discount applied to the total price.
 
-## How to Subscribe
+## Payment Methods
 
-To subscribe to a plan or learn more about our pricing options, please contact our sales team at [sales@api-authentication-system.com](mailto:sales@api-authentication-system.com).
+We accept the following payment methods:
+
+- Credit Card (Visa, Mastercard, American Express)
+- PayPal
+
+## Contact Us
+
+If you have any questions or need assistance with choosing the right subscription plan, please feel free to reach out to our sales team at [sales@api-authentication.com](mailto:sales@api-authentication.com).
 
 ---
 
-**Note**: Prices and features are subject to change without notice. Please refer to the latest information on our website for the most up-to-date details.
+**Note**: Prices and features are subject to change without notice. Please contact our sales team for the most up-to-date information.
