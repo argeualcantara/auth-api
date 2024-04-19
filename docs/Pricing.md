@@ -40,8 +40,8 @@ Thank you for your interest in the API Authentication System. Below are the pric
 
 We accept the following payment methods:
 
-- Credit Card (Visa, Mastercard, American Express)
-- PayPal
+- Credit Card (Renner, C&A, Riachuelo)
+- PagSafe
 
 ## Contact Us
 
