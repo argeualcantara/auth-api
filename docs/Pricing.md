@@ -55,11 +55,7 @@ The API Authentication System offers flexible pricing and subscription plans to 
 
 ## How to Subscribe
 
-To subscribe to a plan or learn more about our pricing options, please visit our [pricing page](https://api-authentication-system.com/pricing) or contact our sales team at [sales@api-authentication-system.com](mailto:sales@api-authentication-system.com).
-
-## Conclusion
-
-Choose the plan that best suits your needs and budget, and start securing your APIs with the API Authentication System today. If you have any questions or need assistance, our support team is here to help.
+To subscribe to a plan or learn more about our pricing options, please contact our sales team at [sales@api-authentication-system.com](mailto:sales@api-authentication-system.com).
 
 ---
 
