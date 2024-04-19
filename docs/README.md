@@ -1,6 +1,9 @@
 # Documentation
 
-- [Integration Guide](Integration.md)
-- [FAQ](FAQ.md)
-- [Samples](Samples.md)
 - [API Specification](API%20Spec.md)
+- [Integration Guide](Integration.md)
+- [Samples](Samples.md)
+- [Pricing](Pricing.md)
+- [FAQ](FAQ.md)
+
+
